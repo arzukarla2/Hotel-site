@@ -1,0 +1,579 @@
+@keyframes roll-in-left {
+  0% {
+    transform: translateX(-50px) rotate(-540deg);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+.footer-child {
+  position: absolute;
+  top: -0.5px;
+  left: 0;
+  width: 1860px;
+  height: 1px;
+  opacity: 0.2;
+}
+.sign-up-to1,
+.the-five-star-hotel1 {
+  position: absolute;
+  top: 171px;
+  left: 0;
+  line-height: 28px;
+  display: inline-block;
+  width: 285px;
+  opacity: 0.8;
+}
+.sign-up-to1 {
+  left: 473px;
+}
+.all-rights-reserved1 {
+  position: absolute;
+  top: 325px;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 24px;
+  opacity: 0.4;
+}
+.about-us5 {
+  color: var(--white);
+}
+.about-us4,
+.news2,
+.social2 {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  text-transform: uppercase;
+  color: var(--secondary-color);
+}
+.news2,
+.social2 {
+  left: 473px;
+}
+.social2 {
+  left: 945px;
+}
+.email2,
+.facebook1,
+.instagram1,
+.twitter1 {
+  position: absolute;
+  top: 171px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.facebook1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 945px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica-neue-lt-std);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+}
+.email2,
+.instagram1,
+.twitter1 {
+  left: 1083px;
+}
+.email2,
+.twitter1 {
+  left: 1227px;
+}
+.email2 {
+  top: 25px;
+  left: 20px;
+  display: inline-block;
+  width: 113.42px;
+  height: 17.5px;
+  opacity: 0.48;
+}
+.email-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(40px);
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 285px;
+  height: 64px;
+  opacity: 0.64;
+}
+.group-child1,
+.group-inner {
+  position: absolute;
+  top: -0.23px;
+  left: 23.03px;
+  width: 9.9px;
+  height: 17.46px;
+}
+.group-child1 {
+  top: 8px;
+  left: 0;
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 30px;
+  height: 1px;
+}
+.vector-group {
+  position: absolute;
+  top: 23px;
+  left: 234px;
+  width: 31px;
+  height: 17px;
+  opacity: 0.48;
+}
+.email1 {
+  position: absolute;
+  top: 285px;
+  left: 473px;
+  width: 285px;
+  height: 64px;
+}
+.footer,
+.image-icon13 {
+  position: absolute;
+  top: 1477px;
+  left: 278px;
+  width: 1860px;
+  height: 349px;
+}
+.image-icon13 {
+  top: 402px;
+  left: 1538px;
+  width: 443px;
+  height: 443px;
+  object-fit: cover;
+}
+.get-in-touch-item {
+  position: absolute;
+  top: 146.5px;
+  left: 248px;
+  width: 2408px;
+  height: 561.62px;
+  opacity: 0.12;
+}
+.form-child5,
+.form-child6 {
+  position: absolute;
+  background-color: var(--white);
+}
+.form-child5 {
+  top: 81px;
+  left: 0;
+  backdrop-filter: blur(40px);
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 630px;
+  height: 140px;
+  opacity: 0.1;
+}
+.form-child6 {
+  top: 121px;
+  left: 316px;
+  width: 1px;
+  height: 60px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  opacity: 0.2;
+}
+.form-child7,
+.form-child8 {
+  position: absolute;
+  top: 146.03px;
+  left: 258.21px;
+  width: 16.51px;
+  height: 10.45px;
+}
+.form-child8 {
+  left: 573.74px;
+}
+.check-in2 {
+  top: 142px;
+  left: 40px;
+  line-height: 20px;
+  width: 113.42px;
+  height: 17.5px;
+}
+.check-in2,
+.check-out2,
+.find-a-room1 {
+  position: absolute;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.check-out2 {
+  top: 142px;
+  left: 355px;
+  line-height: 20px;
+  width: 113.42px;
+  height: 17.5px;
+}
+.find-a-room1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  width: 284px;
+}
+.button-default-child3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--secondary-color);
+}
+.book-room3 {
+  position: absolute;
+  height: 12.86%;
+  width: 53.68%;
+  top: 43.57%;
+  left: 23.16%;
+  line-height: 20px;
+  text-transform: uppercase;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #1b3b36;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+.button-default7 {
+  position: absolute;
+  top: 81px;
+  left: 630px;
+  width: 285px;
+  height: 140px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.form2 {
+  position: absolute;
+  top: 1106px;
+  left: 278px;
+  width: 915px;
+  height: 221px;
+}
+.get-in1,
+.lystopadovoho-chynulviv2 {
+  position: absolute;
+  left: 278px;
+  text-transform: uppercase;
+}
+.get-in1 {
+  top: 387px;
+  font-size: var(--font-size-281xl);
+  line-height: 300px;
+  font-family: var(--font-miracle);
+}
+.lystopadovoho-chynulviv2 {
+  top: 163px;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  width: 284px;
+}
+.div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 60px;
+}
+.phone-item {
+  top: 62px;
+  left: 3px;
+  background-color: var(--white);
+  width: 500px;
+  height: 1px;
+  opacity: 0.48;
+}
+.phone-item,
+.phone1,
+.touch1 {
+  position: absolute;
+}
+.phone1 {
+  top: 0;
+  left: 1538px;
+  width: 503px;
+  height: 63px;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+}
+.touch1 {
+  top: 737px;
+  left: 1122px;
+  font-size: var(--font-size-281xl);
+  line-height: 300px;
+  text-transform: uppercase;
+  font-family: var(--font-miracle);
+  color: var(--secondary-color);
+}
+.get-in-touch-inner,
+.get-in-touch1 {
+  position: absolute;
+  top: 462px;
+  left: 1193.41px;
+  width: 150px;
+  height: 150px;
+}
+.get-in-touch1 {
+  top: 4188px;
+  left: -248px;
+  width: 2408px;
+  height: 1826px;
+  font-family: var(--font-helvetica-neue-lt-std);
+}
+.spend-your-time {
+  position: absolute;
+  top: 1076px;
+  left: 791px;
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 417px;
+}
+.if-you-are {
+  top: 1238px;
+  left: 791px;
+  font-size: var(--font-size-lg);
+  line-height: 28px;
+  font-family: var(--font-helvetica-neue-lt-std);
+  width: 442px;
+  opacity: 0.8;
+}
+.all-room-decoration3,
+.if-you-are,
+.once-you-try {
+  position: absolute;
+  display: inline-block;
+}
+.all-room-decoration3 {
+  top: 996px;
+  left: 0;
+  font-size: var(--font-size-7xl);
+  text-transform: uppercase;
+  font-family: var(--font-helvetica-neue-lt-std);
+  color: var(--secondary-color);
+  width: 446px;
+}
+.once-you-try {
+  top: 0;
+  left: 791px;
+  letter-spacing: 0.03em;
+  line-height: 60px;
+  width: 942px;
+}
+.image-icon14,
+.image-icon15 {
+  position: absolute;
+  top: 330px;
+  left: 791px;
+  width: 1072px;
+  height: 595.12px;
+  object-fit: cover;
+}
+.image-icon15 {
+  left: 3px;
+  width: 442px;
+}
+.section-2 {
+  position: absolute;
+  top: 2454px;
+  left: 27px;
+  width: 1863px;
+  height: 1434px;
+  opacity: 0;
+  font-size: var(--font-size-31xl);
+}
+.image2.animate,
+.section-2.animate {
+  animation: 1s ease 0s 1 normal forwards roll-in-left;
+}
+.hero-section-child,
+.hero-section-item {
+  position: absolute;
+  top: 63.5px;
+  left: 536.5px;
+  width: 1383.5px;
+  height: 695.5px;
+}
+.hero-section-item {
+  top: 64px;
+  width: 1px;
+  height: 1250px;
+}
+.hero-section-inner {
+  position: absolute;
+  top: 63.5px;
+  left: 0;
+  width: 1920px;
+  height: 1px;
+}
+.at-your-service {
+  position: absolute;
+  top: 1817px;
+  left: 30px;
+  font-size: var(--font-size-31xl);
+  letter-spacing: 0.03em;
+}
+.the-team-of {
+  top: 1918px;
+  left: 30px;
+  line-height: 28px;
+  font-family: var(--font-helvetica-neue-lt-std);
+  width: 443px;
+  opacity: 0.8;
+}
+.bank-hotel-proudly,
+.safe-restaurant,
+.the-team-of {
+  position: absolute;
+  display: inline-block;
+}
+.safe-restaurant {
+  top: 113px;
+  left: 30px;
+  font-size: var(--font-size-131xl);
+  line-height: 130px;
+  color: var(--secondary-color);
+  width: 1241px;
+}
+.bank-hotel-proudly {
+  top: 393px;
+  left: 1290px;
+  line-height: 28px;
+  font-family: var(--font-helvetica-neue-lt-std);
+  width: 350px;
+  opacity: 0.8;
+}
+.space-copenhagen-the-stratford-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1360px;
+  height: 800px;
+  object-fit: cover;
+}
+.image2 {
+  position: absolute;
+  top: 867px;
+  left: 30px;
+  width: 1230px;
+  height: 800px;
+  opacity: 0;
+}
+.space-copenhagen-the-stratford-icon5 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 599px;
+  height: 814.15px;
+  object-fit: cover;
+}
+.image3 {
+  position: absolute;
+  top: 867px;
+  left: 1290px;
+  width: 600px;
+  height: 600px;
+}
+.label-icon3 {
+  top: 267.79px;
+  left: 1170.85px;
+  width: 146.11px;
+  height: 146.11px;
+}
+.div8,
+.label-icon3,
+.one-of-a {
+  position: absolute;
+}
+.one-of-a {
+  top: 393px;
+  left: 30px;
+  font-size: var(--font-size-41xl);
+  text-transform: capitalize;
+}
+.div8 {
+  top: 8.33%;
+  left: 92.74%;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.bankhotel2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+}
+.home1,
+.rooms3 {
+  position: relative;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+.rooms3 {
+  cursor: pointer;
+}
+.home-group {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-51xl);
+}
+.header,
+.home-group,
+.nav1 {
+  position: absolute;
+}
+.nav1 {
+  height: 83.33%;
+  width: 42.47%;
+  top: 8.33%;
+  right: 28.74%;
+  bottom: 8.33%;
+  left: 28.79%;
+  font-size: var(--font-size-sm);
+}
+.header {
+  top: 0;
+  left: 30px;
+  width: 1860px;
+  height: 24px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-helvetica-neue-lt-std);
+}
+.hero-section {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 1920px;
+  height: 2114px;
+  font-size: var(--font-size-lg);
+}
+.facility-page-desktop-1920 {
+  position: relative;
+  background-color: var(--primary-color);
+  width: 100%;
+  height: 6114px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-miracle);
+}

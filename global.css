@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-helvetica-neue-lt-std: "Helvetica Neue LT Std";
+  --font-miracle: Miracle;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --font-size-7xl: 26px;
+  --font-size-131xl: 150px;
+  --font-size-31xl: 50px;
+  --font-size-61xl: 80px;
+  --font-size-281xl: 300px;
+  --font-size-41xl: 60px;
+
+  /* Colors */
+  --primary-color: #313f38;
+  --white: #fffcf6;
+  --color-floralwhite-100: rgba(255, 252, 246, 0.12);
+  --secondary-color: #fcd043;
+  --color-gray: rgba(0, 0, 0, 0.2);
+
+  /* Gaps */
+  --gap-51xl: 70px;
+
+  /* border radiuses */
+  --br-80xl: 99px;
+}
